@@ -1,0 +1,4 @@
+{
+  "rpc": "https://eth-goerli.g.alchemy.com/v2/demo",
+  "abi": [{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"payable","type":"function"}]
+}
